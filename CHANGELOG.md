@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.5.5](https://www.github.com/googleapis/java-analytics-data/compare/v0.5.4...v0.5.5) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#135](https://www.github.com/googleapis/java-analytics-data/issues/135)) ([0470fd1](https://www.github.com/googleapis/java-analytics-data/commit/0470fd12172a87ff90d279775b1931e48ece51d0))
+
 ### [0.5.4](https://www.github.com/googleapis/java-analytics-data/compare/v0.5.3...v0.5.4) (2021-01-14)
 
 
